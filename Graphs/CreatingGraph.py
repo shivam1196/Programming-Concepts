@@ -27,3 +27,4 @@ if __name__ == "__main__":
 
     graph_traversal = GraphTraversal()
     graph_traversal.bfs(vertex_list)
+    graph_traversal.dfs(vertex_list)
